@@ -1,2 +1,8 @@
-# notes
-Personal notes on AWS, Linux, Networking, Java, and Cybersecurity.
+# Tech Notes
+
+This repository contains my personal notes on:
+- AWS
+- Linux
+- Networking
+- Cybersecurity
+- Java & Spring Boot
